@@ -1,18 +1,22 @@
 # DNA & Protein Sequence Analyzer
 
-A beginner-friendly bioinformatics tool to analyze DNA and protein sequences.
+A Python tool for analyzing DNA and protein sequences with visualization of nucleotide/amino acid composition.
 
 ## Features
+
 - **DNA Analysis**
-  - GC content calculation
-  - Reverse complement
-  - Nucleotide frequency visualization
+  - Calculate GC content percentage
+  - Generate reverse complement sequences
+  - Visualize nucleotide frequency distribution
+
 - **Protein Analysis**
-  - Molecular weight
-  - Isoelectric point
-  - Amino acid composition visualization
+  - Calculate molecular weight (Da)
+  - Determine isoelectric point (pI)
+  - Visualize amino acid composition
 
 ## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/sequence-analyzer.git
+
+1. Clone or download this repository
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt```
